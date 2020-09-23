@@ -1,3 +1,13 @@
-img{
-width:30%;
+.navbar-default {
+    background-color: #85bfec8f;
+    border-color: #e7e7e7;
+}
+.container-fluid {
+    
+    background: antiquewhite;
+}
+.list-group-item {
+   
+    background-color:#d4d39dab;
+   
 }
